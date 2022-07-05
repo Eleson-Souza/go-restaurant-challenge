@@ -2,9 +2,9 @@
   "foods": [
     {
       "id": 1,
-      "name": "Ao molho",
+      "name": "Macarrão ao molho",
       "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas",
-      "price": "19.90",
+      "price": "29.50",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
     },
@@ -21,8 +21,24 @@
       "name": "A la Camarón",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
-      "available": false,
+      "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://1.bp.blogspot.com/-8EcLA5qi4F0/U11DqqKaZAI/AAAAAAAAMNA/34Tnd8s7S9I/s1600/lasanha+1.png",
+      "name": "Lasanha",
+      "price": "75.20",
+      "description": "Lasanha, Massas e Molho à Bolonhesa",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "https://i.pinimg.com/originals/92/2a/9e/922a9e36b1b512697836b3bf28e40bd6.png",
+      "name": "Feijoada",
+      "price": "35.75",
+      "description": "Feijoada Baiana com arroz e farrofa",
+      "available": true,
+      "id": 5
     }
   ]
 }
